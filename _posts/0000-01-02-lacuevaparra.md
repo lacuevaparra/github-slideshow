@@ -2,5 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**Linux** | Windows
+------------ | -------------
+*One click faster* | Just too slow
+*Secure* | Easy to hack
 Use the left arrow to go back!
